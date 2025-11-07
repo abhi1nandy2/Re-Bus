@@ -1,0 +1,106 @@
+img_url,Reasoning,Answer
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/17_12.png,"# Visual Editing -
+join(img(""Jewel""), img(""Eye""))
+
+# Text Editing -
+combine_words(""Jewel"", ""Eye"") = ""July""",July
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/19_6.png,"# Visual Editing -
+join(img(""Sea""), img(""Quill""))
+
+# Text Editing -
+combine_words(""Sea"", ""Quill"") = ""Sequel""",Sequel
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/20_5.png,"# Visual Editing -
+join(img(""Tree""), img(""Fan""), relative_position = ""IN"")
+
+# Text Editing -
+combine_words(""IN"", ""Fan"", ""Tree"") = ""Infantry""",Infantry
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puzzle14.gif,"# Visual Editing -
+join(text(""LOOK""), text(""SIDE""), relative_position = ""IN"")
+
+# Text Editing -
+combine_words(""LOOK"", ""IN"", ""SIDE"") = ""Look Inside""",Look Inside
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puzzle154.gif,"# Visual Editing -
+shadow(join(text(""A""), text(""DOUBT"")))
+
+# Text Editing -
+combine_words(""shadow"", ""A"", ""DOUBT"") = ""Shadow of a doubt""",Shadow of a doubt
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puz106.gif,"# Visual Editing -
+repeat(text(""BARBERSHOP""), num_repetitions = 4)
+
+# Text Editing -
+combine_words(""BARBERSHOP"", ""4"") = ""Barbershop quartet""",Barbershop quartet
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puzzle103.gif,"# Visual Editing -
+zoom_out(text(""bighorn""))
+
+# Text Editing -
+combine_words(""little"", ""big"", ""horn"") = ""little big horn""",little big horn
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puz22.gif,"# Visual Editing -
+join(text(""PLAY""), zoom_out(text(""stop"")))
+
+# Text Editing -
+combine_words(""PLAY"", ""short"", ""stop"") = ""Play shortstop""",Play shortstop
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puzzle129.gif,"# Visual Editing -
+join(zoom_in(text(""MAN"")), text(""CAMPUS""), relative_position = ""ON"")
+
+# Text Editing -
+combine_words(""Big"", ""MAN"", ""ON"", ""CAMPUS"") = ""Big man on campus""",Big man on campus
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puzzle136.gif,"# Visual Editing -
+join(rotate(text(""SOLD""), angle = ""90 degrees anticlockwise""), text(""DANUBE""))
+
+# Text Editing -
+combine_words(""SOLD"", ""DOWN"", ""RIVER"") = ""Sold down the river""",Sold down the river
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puz99.gif,"# Visual Editing -
+rotate(text(""ICEBERG""), angle = ""45 degrees anticlockwise"")
+
+# Text Editing -
+combine_words(""TIP"", ""ICEBERG"") = ""Tip of the iceberg""",Tip of the iceberg
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puz111.gif,"# Visual Editing -
+mirror(text(""TEMPORARY""), inversion = ""HORIZONTAL"")
+
+# Text Editing -
+combine_words(""TEMPORARY"", ""back"") = ""temporary setback""",temporary setback
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puz96.gif,"# Visual Editing -
+join(textColor(text(""E""), color = ""RED""), repeat(text(""more""), num_repetitions = 4))
+
+# Text Editing -
+combine_words(""RED"", ""E"", ""4"", ""more"") = ""Ready for more""",Ready for more
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puz113.gif,"# Visual Editing -
+draw_using(text(""CHART""), unit = text(""i""))
+
+# Text Editing -
+combine_words(""i"", ""CHART"") = ""eye chart""",eye chart
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puz72.gif,"# Visual Editing -
+join(text(""DAY""), text(""DAYOUT""), relative_position = ""IN"")
+
+# Text Editing -
+combine_words(""DAY"", ""IN"", ""DAYOUT"") = ""day in, day out""","day in, day out"
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puz36.gif,"# Visual Editing -
+draw_using(shape(""pick""), unit = text(""tOOTH""))
+
+# Text Editing -
+combine_words(""tOOTH"", ""pick"") = ""toothpick""",toothpick
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puz60.gif,"# Visual Editing -
+join(repeat(text(""BIG""), num_repetitions = 2), repeat(text(""ignore""), num_repetitions = 2))
+
+# Text Editing -
+combine_words(""2"", ""BIG"", ""2"", ""IGNORE"") = ""Too big to ignore""",too big to ignore
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puz123.gif,"# Visual Editing -
+zoom_in(text(example(""laugh"")))
+
+# Text Editing -
+combine_words(""big"", ""laugh"") = ""big laugh""",big laugh
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/1_1.png,"# Visual Editing -
+join(repeat(text(""1""), num_repetitions = 4), join(text(""MY""), text(""LIFE"")), relative_position = ""IN"")
+
+# Text Editing -
+combine_words(""4"", ""1"", ""IN"", ""MY"", ""LIFE"") = ""for once in my life""",for once in my life
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/5_10.png,"# Visual Editing -
+join(text(""KING""), join(text(""The""), text(""woods"")), relative_position = ""HIGH_IN"")
+
+# Text Editing -
+combine_words(""HIGH"", ""KING"", ""IN"", ""The"", ""woods"") = ""hiking in the woods""",hiking in the woods
+https://raw.githubusercontent.com/abhi1nandy2/Re-Bus/master/images/puz117.jpg,"# Visual Editing -
+repeat(rotate(text(""EARTH""), angle = ""90 degrees clockwise""), num_repetitions = 2)
+
+# Text Editing -
+combine_words(""DOWN"", ""2"", ""EARTH"") = ""down to earth""",down to earth
